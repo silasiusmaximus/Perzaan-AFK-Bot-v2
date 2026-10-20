@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "unstable01111.arternos.me",
+    "ip": "unstablesmp01111.aternos.me:64539",
     "port": 64539,
     "version": "26.3"
   },
